@@ -6,4 +6,4 @@ Standard library only. Run tests with:
 
     python3 -m unittest discover -s tests -v
 
-No license is included yet. Until one is added, all rights are reserved.
+Released under the MIT License (see LICENSE).

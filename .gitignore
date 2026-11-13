@@ -1,0 +1,13 @@
+# Secrets and personal data must never be committed
+.env
+.env.*
+*.key
+*.pem
+data/
+backups/
+*.db
+*.sqlite
+node_modules/
+.venv/
+__pycache__/
+.DS_Store
